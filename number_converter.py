@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 '''
 convert decimal number to binary
 via standard python function
